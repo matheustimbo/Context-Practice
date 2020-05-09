@@ -1,0 +1,6 @@
+module Pods_contextPractice {
+  umbrella header "Pods-contextPractice-umbrella.h"
+
+  export *
+  module * { export * }
+}

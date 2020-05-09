@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>672819251204-7ev1v80jjfgo1cdjt336hdb1igpn7ure.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.672819251204-7ev1v80jjfgo1cdjt336hdb1igpn7ure</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD6B1b_hERSzy9jqiclGxSz7gWQ79asghw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>672819251204</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.contextPractice</string>
+	<key>PROJECT_ID</key>
+	<string>contextprac</string>
+	<key>STORAGE_BUCKET</key>
+	<string>contextprac.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:672819251204:ios:cf69e430e730cc986bcd51</string>
+	<key>DATABASE_URL</key>
+	<string>https://contextprac.firebaseio.com</string>
+</dict>
+</plist>
